@@ -1,0 +1,7 @@
+# caenlogger config file
+
+username = "..."
+pw = "..."
+local_adr = "..."
+remote_adr = "..."
+plot_file = "..."
